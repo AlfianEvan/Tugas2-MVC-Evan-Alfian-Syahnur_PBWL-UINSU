@@ -1,4 +1,4 @@
-## Praktikum SI-MVC Pemrograman Berbasis Web Lanjutan 2021/2022
+## Tugas 2 MVC Pemrograman Berbasis Web Lanjutan 2023
 ## Buat Folder _db serta file didalamnya
 * db_service.sql
 ## Buat Folder app serta empat folder didalamnya
